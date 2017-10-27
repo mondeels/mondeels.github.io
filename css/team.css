@@ -35,7 +35,7 @@ ul.team_icons_agile li {
 }
 
 .w3_agile_team_grid ul li:last-child {
-	margin: 0;
+	margin: auto;
 }
 
 .w3_agile_team_grid_info {
